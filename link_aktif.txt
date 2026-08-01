@@ -1,1 +1,1 @@
-https://theology-temple-burner-litigation.trycloudflare.com
+http://localhost:3000
